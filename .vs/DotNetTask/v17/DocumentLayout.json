@@ -1,7 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\dotnettask\\controllers\\employercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|solutionrelative:dotnettask\\controllers\\employercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FE1A13-2D56-4F14-AFF4-C6E5CF8BEE19}|TestProgramAPIs\\TestProgramAPIs.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\testprogramapis\\employeecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FE1A13-2D56-4F14-AFF4-C6E5CF8BEE19}|TestProgramAPIs\\TestProgramAPIs.csproj|solutionrelative:testprogramapis\\employeecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\dotnettask\\controllers\\applicantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|solutionrelative:dotnettask\\controllers\\applicantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FE1A13-2D56-4F14-AFF4-C6E5CF8BEE19}|TestProgramAPIs\\TestProgramAPIs.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\testprogramapis\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FE1A13-2D56-4F14-AFF4-C6E5CF8BEE19}|TestProgramAPIs\\TestProgramAPIs.csproj|solutionrelative:testprogramapis\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\dotnettask\\models\\profiles\\userapplicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|solutionrelative:dotnettask\\models\\profiles\\userapplicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\dotnettask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|solutionrelative:dotnettask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\dotnettask\\models\\profiles\\programinformationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|solutionrelative:dotnettask\\models\\profiles\\programinformationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\dotnettask\\models\\dto\\userapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|solutionrelative:dotnettask\\models\\dto\\userapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\dotnettask\\services\\applicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|solutionrelative:dotnettask\\services\\applicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\dotnettask\\services\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|solutionrelative:dotnettask\\services\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\dotnettask\\services\\iemployerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|solutionrelative:dotnettask\\services\\iemployerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\dotnettask\\services\\employerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|solutionrelative:dotnettask\\services\\employerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\dotnettask\\models\\cosmodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|solutionrelative:dotnettask\\models\\cosmodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\dotnettask\\models\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|solutionrelative:dotnettask\\models\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\dotnettask\\models\\classcommonproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|solutionrelative:dotnettask\\models\\classcommonproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\dotnettask\\data\\dotnettaskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|solutionrelative:dotnettask\\data\\dotnettaskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\dotnettask\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|solutionrelative:dotnettask\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\dotnettask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|solutionrelative:dotnettask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|c:\\users\\nsanni\\source\\repos\\dotnettask\\dotnettask\\models\\dto\\programinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD074C3-0D3A-425D-A5F6-F5DBFC764A11}|DotNetTask\\DotNetTask.csproj|solutionrelative:dotnettask\\models\\dto\\programinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\obj\\Debug\\net8.0\\DotNetTask.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DotNetTask\\obj\\Debug\\net8.0\\DotNetTask.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +107,249 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\TestProgramAPIs\\EmployeeControllerTest.cs",
+              "RelativeDocumentMoniker": "TestProgramAPIs\\EmployeeControllerTest.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\TestProgramAPIs\\EmployeeControllerTest.cs",
+              "RelativeToolTip": "TestProgramAPIs\\EmployeeControllerTest.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:54:52.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\TestProgramAPIs\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProgramAPIs\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\TestProgramAPIs\\UnitTest1.cs",
+              "RelativeToolTip": "TestProgramAPIs\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:34:05.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicantController.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Controllers\\ApplicantController.cs",
+              "RelativeDocumentMoniker": "DotNetTask\\Controllers\\ApplicantController.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Controllers\\ApplicantController.cs",
+              "RelativeToolTip": "DotNetTask\\Controllers\\ApplicantController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:21:17.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployerController.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Controllers\\EmployerController.cs",
+              "RelativeDocumentMoniker": "DotNetTask\\Controllers\\EmployerController.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Controllers\\EmployerController.cs",
+              "RelativeToolTip": "DotNetTask\\Controllers\\EmployerController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:20:53.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserApplicationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Models\\Profiles\\UserApplicationMapper.cs",
+              "RelativeDocumentMoniker": "DotNetTask\\Models\\Profiles\\UserApplicationMapper.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Models\\Profiles\\UserApplicationMapper.cs",
+              "RelativeToolTip": "DotNetTask\\Models\\Profiles\\UserApplicationMapper.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwCIAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:15:59.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProgramInformationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Models\\Profiles\\ProgramInformationMapper.cs",
+              "RelativeDocumentMoniker": "DotNetTask\\Models\\Profiles\\ProgramInformationMapper.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Models\\Profiles\\ProgramInformationMapper.cs",
+              "RelativeToolTip": "DotNetTask\\Models\\Profiles\\ProgramInformationMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:15:27.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IApplicantService.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Services\\IApplicantService.cs",
+              "RelativeDocumentMoniker": "DotNetTask\\Services\\IApplicantService.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Services\\IApplicantService.cs",
+              "RelativeToolTip": "DotNetTask\\Services\\IApplicantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:27:50.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Program.cs",
+              "RelativeDocumentMoniker": "DotNetTask\\Program.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Program.cs",
+              "RelativeToolTip": "DotNetTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:24:45.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicantService.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Services\\ApplicantService.cs",
+              "RelativeDocumentMoniker": "DotNetTask\\Services\\ApplicantService.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Services\\ApplicantService.cs",
+              "RelativeToolTip": "DotNetTask\\Services\\ApplicantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:23:06.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DotNetTask.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\obj\\Debug\\net8.0\\DotNetTask.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "DotNetTask\\obj\\Debug\\net8.0\\DotNetTask.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\obj\\Debug\\net8.0\\DotNetTask.AssemblyInfo.cs",
+              "RelativeToolTip": "DotNetTask\\obj\\Debug\\net8.0\\DotNetTask.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:36:51.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserApplicationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Models\\DTO\\UserApplicationDTO.cs",
+              "RelativeDocumentMoniker": "DotNetTask\\Models\\DTO\\UserApplicationDTO.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Models\\DTO\\UserApplicationDTO.cs",
+              "RelativeToolTip": "DotNetTask\\Models\\DTO\\UserApplicationDTO.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAArwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:15:17.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployerService.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Services\\IEmployerService.cs",
+              "RelativeDocumentMoniker": "DotNetTask\\Services\\IEmployerService.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Services\\IEmployerService.cs",
+              "RelativeToolTip": "DotNetTask\\Services\\IEmployerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:31:13.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployerService.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Services\\EmployerService.cs",
+              "RelativeDocumentMoniker": "DotNetTask\\Services\\EmployerService.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Services\\EmployerService.cs",
+              "RelativeToolTip": "DotNetTask\\Services\\EmployerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:30:52.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CosmoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Models\\CosmoDbSettings.cs",
+              "RelativeDocumentMoniker": "DotNetTask\\Models\\CosmoDbSettings.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Models\\CosmoDbSettings.cs",
+              "RelativeToolTip": "DotNetTask\\Models\\CosmoDbSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:29:38.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserApplication.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Models\\UserApplication.cs",
+              "RelativeDocumentMoniker": "DotNetTask\\Models\\UserApplication.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Models\\UserApplication.cs",
+              "RelativeToolTip": "DotNetTask\\Models\\UserApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:27:00.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClassCommonProperties.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Models\\ClassCommonProperties.cs",
+              "RelativeDocumentMoniker": "DotNetTask\\Models\\ClassCommonProperties.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Models\\ClassCommonProperties.cs",
+              "RelativeToolTip": "DotNetTask\\Models\\ClassCommonProperties.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:27:10.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DotNetTask\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\appsettings.Development.json",
+              "RelativeToolTip": "DotNetTask\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T16:23:36.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\appsettings.json",
+              "RelativeDocumentMoniker": "DotNetTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\appsettings.json",
+              "RelativeToolTip": "DotNetTask\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T16:23:11.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DotNetTaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Data\\DotNetTaskContext.cs",
+              "RelativeDocumentMoniker": "DotNetTask\\Data\\DotNetTaskContext.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Data\\DotNetTaskContext.cs",
+              "RelativeToolTip": "DotNetTask\\Data\\DotNetTaskContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAawBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:21:48.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProgramInformationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Models\\DTO\\ProgramInformationDTO.cs",
+              "RelativeDocumentMoniker": "DotNetTask\\Models\\DTO\\ProgramInformationDTO.cs",
+              "ToolTip": "C:\\Users\\nsanni\\source\\repos\\DotNetTask\\DotNetTask\\Models\\DTO\\ProgramInformationDTO.cs",
+              "RelativeToolTip": "DotNetTask\\Models\\DTO\\ProgramInformationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:14:56.999Z"
             }
           ]
         }
